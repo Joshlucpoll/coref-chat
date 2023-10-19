@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+#logo {
+  max-width: min(90vw, 500px);
+  margin-top: 5rem;
+}
+
+p {
+  font-weight: 600;
+  opacity: 0.5;
+  color:white;
+  margin: 0 auto;
+  margin-top: min(2vw, -3rem);
+  margin-bottom: 2rem;
+  max-width: min(90vw, 500px);
+}
+.wrapper {
+  padding: 0 1rem;
+}
